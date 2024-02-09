@@ -4,8 +4,8 @@ Put together a collection of design patterns and their implementations in variou
 
 ## Design Patterns
 
-- [Singleton](./singleton/README.md)
-- [Factory Method](./factory-method/README.md)
-- [Abstract Factory](./abstract-factory/README.md)
-- [Dependency Injection](./dependency-injection/README.md)
-- [Visitor](./visitor/README.md)
+- [Singleton](./singleton)
+- [Factory Method](./factory-method)
+- [Abstract Factory](./abstract-factory)
+- [Dependency Injection](./dependency-injection)
+- [Visitor](./visitor)
